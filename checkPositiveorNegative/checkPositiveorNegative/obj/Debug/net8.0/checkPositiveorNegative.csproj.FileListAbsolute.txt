@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\bin\Debug\net8.0\checkPositiveorNegative.exe
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\bin\Debug\net8.0\checkPositiveorNegative.deps.json
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\bin\Debug\net8.0\checkPositiveorNegative.runtimeconfig.json
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\bin\Debug\net8.0\checkPositiveorNegative.dll
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\bin\Debug\net8.0\checkPositiveorNegative.pdb
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\obj\Debug\net8.0\checkPositiveorNegative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\obj\Debug\net8.0\checkPositiveorNegative.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\obj\Debug\net8.0\checkPositiveorNegative.AssemblyInfo.cs
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\obj\Debug\net8.0\checkPositiveorNegative.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\obj\Debug\net8.0\checkPositiveorNegative.dll
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\obj\Debug\net8.0\refint\checkPositiveorNegative.dll
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\obj\Debug\net8.0\checkPositiveorNegative.pdb
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\obj\Debug\net8.0\checkPositiveorNegative.genruntimeconfig.cache
+C:\Users\elsad\source\repos\checkPositiveorNegative\checkPositiveorNegative\obj\Debug\net8.0\ref\checkPositiveorNegative.dll
