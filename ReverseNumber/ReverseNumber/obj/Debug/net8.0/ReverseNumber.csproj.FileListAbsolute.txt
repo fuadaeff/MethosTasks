@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.AssemblyInfo.cs
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\bin\Debug\net8.0\ReverseNumber.exe
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\bin\Debug\net8.0\ReverseNumber.deps.json
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\bin\Debug\net8.0\ReverseNumber.runtimeconfig.json
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\bin\Debug\net8.0\ReverseNumber.dll
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\bin\Debug\net8.0\ReverseNumber.pdb
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.dll
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\obj\Debug\net8.0\refint\ReverseNumber.dll
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.pdb
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.genruntimeconfig.cache
+C:\Users\elsad\source\repos\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ref\ReverseNumber.dll
